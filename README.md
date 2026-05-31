@@ -10,7 +10,7 @@ Skills are instruction files that change how Claude behaves. Install one, and Cl
  
 | Skill | Description |
 |-------|-------------|
-| [`math-tutor`](./math-tutor/) | Teaches math through understanding, not memorization. Guides you to think through problems rather than handing over answers. |
+| [`math-tutor`](./math-tutor/) | Teaches math for genuine understanding, not memorization. Adapts to three situations: working a problem with you (guides thinking, never hands over steps), explaining a concept (clear and direct), or checking your solution (diagnoses where reasoning breaks, not just right/wrong). Covers algebra through calculus, probability, linear algebra, and beyond. |
  
 ## How to install
  
